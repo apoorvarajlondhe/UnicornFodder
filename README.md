@@ -50,5 +50,3 @@ Contributions to the Unicorn Fodder web application are welcome! If you would li
 5. Create a pull request to merge your changes into the main repository.
 
 Please ensure that your contributions adhere to the project's coding standards and guidelines.
-
-# Unicorn Fodder
